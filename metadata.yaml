@@ -1,0 +1,25 @@
+_repo: The-Pullman-BoycottA-Complete-History-of-the-R.R.-Strike_36004
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burns, W. F.
+    gutenberg_agent_id: '38026'
+    url: http://www.gutenberg.org/2009/agents/38026
+description: ''
+gutenberg_issued: '2011-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36004'
+  lccn: 07029955
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Pullman Strike, 1894'
+title: 'The Pullman Boycott: A Complete History of the R.R. Strike'
+url: http://www.gutenberg.org/ebooks/36004
